@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SummerSchool_1/static/css/main.0673ab4f.chunk.css",
-    "main.js": "/SummerSchool_1/static/js/main.fc63bbcc.chunk.js",
-    "main.js.map": "/SummerSchool_1/static/js/main.fc63bbcc.chunk.js.map",
+    "main.js": "/SummerSchool_1/static/js/main.3662d126.chunk.js",
+    "main.js.map": "/SummerSchool_1/static/js/main.3662d126.chunk.js.map",
     "runtime-main.js": "/SummerSchool_1/static/js/runtime-main.c644ef7d.js",
     "runtime-main.js.map": "/SummerSchool_1/static/js/runtime-main.c644ef7d.js.map",
     "static/js/2.4eacf8de.chunk.js": "/SummerSchool_1/static/js/2.4eacf8de.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c644ef7d.js",
     "static/js/2.4eacf8de.chunk.js",
     "static/css/main.0673ab4f.chunk.css",
-    "static/js/main.fc63bbcc.chunk.js"
+    "static/js/main.3662d126.chunk.js"
   ]
 }
