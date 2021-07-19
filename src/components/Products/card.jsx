@@ -12,7 +12,7 @@ function Card(props){
             <div className = "text-area">
                 <h5>{props.description}</h5>
             </div>
-            <button style = {{marginBottom : 20}} type="button" class="btn btn-success">Success</button>
+            <button style = {{marginBottom : 20}} type="button" class="btn btn-success">Buy</button>
         </div>
         </div>
     );
